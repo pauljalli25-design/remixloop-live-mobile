@@ -1,0 +1,8 @@
+{
+  "appId": "com.remixloop.livepad",
+  "appName": "RemixLoop Live",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

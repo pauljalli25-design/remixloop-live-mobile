@@ -1,0 +1,6 @@
+{
+  "name": "RemixLoop Live - Mobile Beat Pad & Loop Station",
+  "description": "Interactive Remixlive-style music loop pad with seamless track looping, instant bit music break/fill interruptions with auto-resume, audio pack builder, and installable mobile APK support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

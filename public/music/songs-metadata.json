@@ -1,0 +1,18 @@
+{
+  "Afro_Groove_Beat.wav": {
+    "assignedSongs": [
+      "Celebration Groove",
+      "Sunday Dance Intro"
+    ],
+    "notes": "Upbeat percussion groove · 120 BPM",
+    "bpm": 120
+  },
+  "Warm_Chord_Pad.wav": {
+    "assignedSongs": [
+      "Acoustic Ballad",
+      "Opening Prayer Pad"
+    ],
+    "notes": "Warm C major to A minor pad · 120 BPM",
+    "bpm": 120
+  }
+}
